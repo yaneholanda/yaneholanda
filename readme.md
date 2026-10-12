@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m Yane!
 - :woman_technologist: I’m interested in Data Engineering
-- :t-rex: I’m currently a sr. Solutions Architech @ Databricks and ex-Google
+- :t-rex: I’m currently a sr. Solutions Architect @ Databricks and ex-Google
 - :ocean: Fun fact: I'm a surfer 
 
 
